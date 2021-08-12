@@ -442,11 +442,16 @@
 				DEVELOPMENT_TEAM = K328B98U3F;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "swift-000-add_stuff_to_hello_world/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "stuff-to-hello-world";
+				INFOPLIST_KEY_CFBundleExecutable = "swift-000-add_stuff_to_hello_world";
+				INFOPLIST_KEY_CFBundleName = "swift-000-add_stuff_to_hello_world";
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -470,11 +475,16 @@
 				DEVELOPMENT_TEAM = K328B98U3F;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "swift-000-add_stuff_to_hello_world/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "stuff-to-hello-world";
+				INFOPLIST_KEY_CFBundleExecutable = "swift-000-add_stuff_to_hello_world";
+				INFOPLIST_KEY_CFBundleName = "swift-000-add_stuff_to_hello_world";
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
